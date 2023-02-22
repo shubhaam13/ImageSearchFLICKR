@@ -1,16 +1,16 @@
-# Create React App
+### Create React App
 <img alt="Logo" align ="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
-## Quick Overview
+### Quick Overview
 ```sh
 npx create-react-app my-app
 cd my-app
 npm start
 ```
-# image-search-flickr
+### image-search-flickr
 * A react js application powered by the [Flickr](https://flickr.com) for images. 
 
-## Screenshots
+# Screenshots
 
 * Home page
 ![](https://i.imgur.com/Kq2KV0o.png)

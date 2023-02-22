@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import InfiniteScroll from 'react-infinite-scroll-component';
@@ -25,8 +24,6 @@ const Home = () => {
       setInfiniteLoaderDisplay((photos && !photos.length && title) ? 'none' : 'flex');
       // If the title is empty,
       if (title === '') {
-        // If any custom search is being made previously, then don't show the previous images in the grid.
-        // And disable the custom search.
         if (isCustomSearch) {
           setIsCustomSearch(false);
           setImages(photos);

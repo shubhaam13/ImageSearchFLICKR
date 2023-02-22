@@ -1,3 +1,14 @@
+# Create React App
+<img alt="Logo" align ="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
+
+## Quick Overview
+
+```sh
+npx create-react-app my-app
+cd my-app
+npm start
+```
+
 # image-search-flickr
 
 * A react js application powered by the [Flickr](https://flickr.com) for images. 
@@ -6,10 +17,7 @@
 ## Screenshots
 
 * Home page
-![](https://i.imgur.com/CxqQvOL.png)
-
-* Picture preview after clicking on image
-![](https://i.imgur.com/se19zNu.png)
+![]https://imgur.com/a/v0GvRVh
 
 * Search pictures
 ![](https://i.imgur.com/9b85B0O.png)

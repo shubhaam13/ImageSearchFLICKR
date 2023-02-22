@@ -12,8 +12,8 @@ npm start
 # image-search-flickr
 
 * A react js application powered by the [Flickr](https://flickr.com) for images. 
-* Visit the live demo [here](https://imagefiltersearch-b.netlify.app/).
 
+<<<<<<< HEAD
 ## Screenshots
 
 * Home page
@@ -24,6 +24,8 @@ npm start
 
 * Suggestion from your search history
 ![](https://i.imgur.com/XUfr2zD.png)
+=======
+>>>>>>> 312cfe486e9b829c1adbe8250338289c26faecdc
 
 ### Steps to run
 

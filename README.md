@@ -13,7 +13,7 @@ npm start
 ## Screenshots
 
 * Home page
-![]https://imgur.com/a/v0GvRVh
+![](https://imgur.com/a/v0GvRVh)
 
 * Search pictures
 ![](https://i.imgur.com/9b85B0O.png)

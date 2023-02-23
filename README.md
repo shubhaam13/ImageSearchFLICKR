@@ -13,16 +13,16 @@ npm start
 # Screenshots
 
 * Home page
-![](https://i.imgur.com/Kq2KV0o.png)
+![](https://imgur.com/a/c2U7qc6)
 
 * Search pictures
-![](https://i.imgur.com/KtrKhKs.png)
+![](https://imgur.com/a/lKGr6hO)
 ![](https://i.imgur.com/iw0TYgX.png)
 
 * Suggestion from your search history
-![](https://i.imgur.com/XUfr2zD.png)
-=======
->>>>>>> 312cfe486e9b829c1adbe8250338289c26faecdc
+![](https://imgur.com/a/kdNoUSj)
+
+==================================================
 
 ### Steps to run
 

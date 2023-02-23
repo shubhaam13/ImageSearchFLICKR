@@ -16,11 +16,11 @@ npm start
 ![](https://i.imgur.com/Vd9Pmow.png)
 
 * Search pictures
-![](https://imgur.com/a/lKGr6hO.png)
+![](https://i.imgur.com/rdX3sx6.png)
 ![](https://i.imgur.com/iw0TYgX.png)
 
 * Suggestion from your search history
-![](https://imgur.com/a/kdNoUSj.png)
+![](https://i.imgur.com/uOhLrGF.png)
 
 ==================================================
 
